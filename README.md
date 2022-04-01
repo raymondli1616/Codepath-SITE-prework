@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-Memory game is functional and shows a message that you have won.![](gif1-link-here)
+(<br>)1. Memory game is functional and shows a message that you have won.![](gif1-link-here)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
