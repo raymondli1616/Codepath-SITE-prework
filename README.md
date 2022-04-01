@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 <br>1. Memory game is functional and responds with a "You Won!" message to indicate you have won.![](gif1-link-here)
-2. Memory game responds with a "you lose" to indicate losing the game.![](gif2-link-here)
+<br>2. Memory game responds with a "you lose" to indicate losing the game.![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
@@ -49,8 +49,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [Markdownguide, W3 schools]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[While creating this project I definitely had difficulty creating the guess() function. When attempting to create the guess() function I realized I had to use many if
-statements which made the process more difficult.]
+<br>While creating this project I definitely had difficulty creating the guess() function. When attempting to create the guess() function I realized I had to use many if
+statements which made the process more difficult.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
