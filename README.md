@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-<br>1. Memory game is functional and responds with a "You Won!" message to indicate you have won.![](gif1-link-here)
+<br>1. Memory game is functional and responds with a "You Won!" message to indicate you have won.![](http://g.recordit.co/RG55rwQDxo.gif)
 <br>2. Memory game responds with a "you lose" to indicate losing the game.![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
