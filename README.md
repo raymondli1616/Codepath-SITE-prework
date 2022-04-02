@@ -53,11 +53,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 <br>While creating this project I definitely had difficulty creating and implementing the getRandomInt() function. The getRandomInt() function basically made it so for each game that is played the patterns are different. I found this function diffult to create and implement because I had to figure out how to get the the output of getRandomInt() into the array pattern. I overcame my problems by using Mdn to fully understand how to implement getRandomInt() so that the random int generated is between 1 and 5. Then using more online resources, I learned on W3 schools that in order to add the output of getRandomInt() into pattern, I had to use the push() method. The push() method made it so that each time getRandomInt() is called in the interation, it is added to pattern. This part of the code will be pattern.push(getRandomInt(5)). While creating getRandomInt(), finding out how to limit the range of Math.random was also a bit difficult. I had to write the function as getRandomInt(max) because 5 will be referenced in startGame() and it will be the number generated will be 0 to 4. I figured out that I would need to add 1 to the generated number in order to avoid having 0.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+<br>After completing this project I wonder how I would be able to set up this project as an actual accessible game for everyone. I know that currently they would have to download the files and open it up in their selected application, I guess I am interested on how to get this game on an actual server. The only things that I know about hosting a web page is just how difficult it actually is to set up, so I am quite interested in on how the process is like and how the back end of every website looks like.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
+<br>If I had a few more hours to work on this project, I would love to implement some more unique audios to the game. By adding music or a soundtrack to the background of the page when the user hasn't started the game is something I would like to implement. During the time I worked on this project I couldn't figure out how to have unique sounds to the buttons, so if I had a few more hours I may have been able to figure it out. I think these audio changes could greatly improve the user experience of playing this game.
 
 
 ## Interview Recording URL Link
