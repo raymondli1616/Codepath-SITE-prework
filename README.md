@@ -46,7 +46,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-<br>Markdownguide, W3 schools
+<br>Markdownguide, W3 schools, Mdn
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 <br>While creating this project I definitely had difficulty creating the guess() function. When attempting to create the guess() function I realized I had to use many if
