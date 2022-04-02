@@ -50,8 +50,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 <br>Markdownguide, W3 schools, Mdn
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-<br>While creating this project I definitely had difficulty creating the guess() function. When attempting to create the guess() function I realized I had to use many if
-statements which made the process more difficult.
+<br>While creating this project I definitely had difficulty creating and implementing the getRandomInt() function. The getRandomInt() function basically made it so for each game that is played the patterns are different. I found this function diffult to create and implement because I had to figure out how to get the the output of getRandomInt() into the array pattern. I overcame my problems by using Mdn to fully understand how to implement getRandomInt() so that the random int generated is between 1 and 5. Then using more online resources, I learned on W3 schools that in order to add the output of getRandomInt() into pattern, I had to use the push() method. The push() method made it so that each time getRandomInt() is called in the interation, it is added to pattern. This part of the code will be pattern.push(getRandomInt(5)). While creating getRandomInt(), finding out how to limit the range of Math.random was also a bit difficult. I had to write the function as getRandomInt(max) because 5 will be referenced in startGame() and it will be the number generated will be 0 to 4. I figured out that I would need to add 1 to the generated number in order to avoid having 0.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
