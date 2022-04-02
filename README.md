@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 * [x] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [x] More than 4 functional game buttons
 * [x] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
+* [x] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
@@ -41,8 +41,9 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 <br>1. Memory game is functional and responds with a "You Won!" message to indicate you have won.![](http://g.recordit.co/RG55rwQDxo.gif)
 <br>2. Memory game responds with a "you lose" to indicate losing the game.![](http://g.recordit.co/uFaEjbVwCp.gif)
-![](gif3-link-here)
-![](gif4-link-here)
+<br>3. Changing the elements to the HTML and having more than 4 buttons.![](http://g.recordit.co/luj0dAiVjp.gif)
+<br>4. Memory game speeds up after each turn.![](http://g.recordit.co/Cp5G1n2VN7.gif)
+<br>5. Memory game starts off with a different pattern each time.![](http://g.recordit.co/qR1K8iS4GC.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
