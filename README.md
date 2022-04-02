@@ -61,7 +61,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://baruch.zoom.us/rec/share/X7Wr2Hlq49hrNtGGjmPPyEd0bcZ2cWh3rdkexezlu8AMU70ENw_w1hOhvxbAi5V1.KY-LPT8yjWev4pja?startTime=1648872755000 (Passcode: x*36hs&n))
 
 
 ## License
